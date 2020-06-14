@@ -1,4 +1,4 @@
-# Destination-DAD
+# Destination: DAD
 Maze Game using p5js.
 
 ## Features:
